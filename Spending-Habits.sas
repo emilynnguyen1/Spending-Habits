@@ -36,6 +36,6 @@ MODEL Spending = Age18_24 Hobbies;
 RUN;
 PROC REG DATA=spending;
 /* Specify the dependent variable (Spending) and all potential predictors */
-MODEL Spending = Age18_24 Age25_31 Age32_38 Age39_45 Gender Employment Income Budget;
+MODEL Spending = Age18_24 Age25_31 Age32_38 Age39_45 Gender Employment Income;
 RUN;
 
