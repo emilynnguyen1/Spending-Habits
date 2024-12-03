@@ -5,6 +5,9 @@ This project investigates the leisure spending habits of individuals, analyzing 
 
 Our hypothesis is that age, gender, employment status, and monthly income do not significantly influence leisure spending. We aim to identify the variables that shape these spending habits and provide insights into spending behavior across different demographics.
 
+## Final Report
+For a detailed explanation of our analysis, methods, and results, please refer to the [Final Report](./Spending-Habits-Report.pdf).
+
 ## Key Learnings
 Throughout the course of this project, we gained experience in:
 - **Data Collection**: Conducting surveys through Google Forms to get responses.
